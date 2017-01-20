@@ -643,21 +643,22 @@ footer a:hover {
 }
 
 .post-block img {
-	  width: 100%;
-    height: auto;
+	  width: 374px;
+    height: 248px;
 		object-fit: cover;
     overflow: hidden;
     vertical-align: middle;
 }
 
 .post-fig{
-  width: 100%;
-  height: auto;
+  width: 374px;
+  height: 248px;
+  object-fit: cover;
   float: left;
   padding-right: 15px;
 }
 
-.post-content {
+.post-content{
 
 }
 
